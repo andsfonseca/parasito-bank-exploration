@@ -99,6 +99,8 @@ https://creativecommons.org/licenses/by/4.0/
 This dataset is a redistribution of ParasitoBank.
 We do not claim ownership of the original data.
 
+The code in this repository is licensed under the MIT License. See `LICENSE` for more details.
+
 ## Issues
 
 Feel free to submit issues and enhancement requests.
